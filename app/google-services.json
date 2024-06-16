@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138452580806",
+    "project_id": "facedetection-f1ee2",
+    "storage_bucket": "facedetection-f1ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138452580806:android:f484818521192ace3d1ac7",
+        "android_client_info": {
+          "package_name": "com.sunna.dekhthopda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dZGFxHahrQX-R8zP_tijS3WXLTfHMc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
